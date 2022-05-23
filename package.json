@@ -1,0 +1,20 @@
+{
+  "name": "phaser3-infinite-jumper-template",
+  "version": "1.0.0",
+  "description": "Infinite Jumper in Phaser 3 with Modern JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduard-Konovka/phaser3-infinite-jumper-template.git"
+  },
+  "author": "Eduard Konovka <ed098ua@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eduard-Konovka/phaser3-infinite-jumper-template/issues"
+  },
+  "homepage": "https://github.com/Eduard-Konovka/phaser3-infinite-jumper-template#readme",
+  "dependencies": {}
+}
